@@ -1,0 +1,26 @@
+html{
+    background-color: rebeccapurple;
+}
+
+.boxred{
+    background-color: red;
+    height: 100px;
+    width: 100px;
+}
+
+.boxblue {
+    background-color: blue;
+    height: 400px;
+    width: 300px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: red;
+    }
+
+.boxgreen{
+    background-color: green;
+    height: 600px;
+    width: 250px;
+    border-radius: 6px;
+}
+
